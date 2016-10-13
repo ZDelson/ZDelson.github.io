@@ -90,3 +90,11 @@ body {
 			margin-bottom: 10px;
 			color: blue;
 			}
+			
+			aside#hobbies h3{
+				font-size: 125%;
+				text-align: center;
+				font-family: Arial;
+				color: white;
+				
+			}
